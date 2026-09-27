@@ -1,0 +1,17 @@
+- insert:
+    - id: dsh-dafeiyu-bright
+      name: dsh-dafeiyu-bright
+      config:
+        enabled: true
+        scale: 1
+        bubbleScale: 1
+        activityLevel: normal
+        reducedMotion: false
+        soundEnabled: true
+        bubbleMode: always
+        bubbleStates:
+          - SUCCESS
+          - ERROR
+          - WAITING
+        includeSubagents: false
+        webOverlay: false
